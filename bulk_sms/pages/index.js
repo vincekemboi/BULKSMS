@@ -21,8 +21,8 @@ export default function Home() {
       <h1 className="text-3xl font-bold underline">
   
        </h1>
-       {/* <Confirmation/> */}
-       <Recovery/>
+       <Confirmation/>
+       {/* <Recovery/> */}
       {/* <Login/> */}
       </div>
     </>
